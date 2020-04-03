@@ -1,1 +1,0 @@
-{"version":3,"sources":["styles\\main.scss"],"names":[],"mappings":"AAEA,KACI","file":"src.6b7c70a0.css","sourceRoot":"..\\src","sourcesContent":["$grey : #ebebeb;\r\n\r\nbody{\r\n    background:$grey;\r\n}"]}
