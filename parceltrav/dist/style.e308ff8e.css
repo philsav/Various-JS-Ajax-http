@@ -1,0 +1,24 @@
+body {
+  background: #f4f4f4; }
+
+
+h1{
+    color: blue;
+    padding: 1rem;
+}
+
+#wrap{
+    display: -webkit-box;
+    display: flex;
+    -webkit-box-pack: center;
+            justify-content: center;
+    align-content: center;
+    -webkit-box-align: center;
+            align-items: center;
+    padding: 5px;
+    border: 1px solid #333;
+    border-radius: 4px;
+    box-shadow: 0 10px 10px rgba(0,0,0,0.12);
+}
+
+/*# sourceMappingURL=/style.e308ff8e.css.map */
